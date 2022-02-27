@@ -103,6 +103,10 @@ body {
 .branches div img {
   max-height: 200px;
 }
+
+.branches div p {
+  font-size: 24px;
+}
 /* ------------------------------------------------------------- */
 
 /* SECTION: BENEFITS */
