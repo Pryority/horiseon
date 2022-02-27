@@ -1,3 +1,3 @@
 # Code Refactor Starter Code
 
-<!--TESTING-->
+![A screenshot of the home page of Horiseon](HORISEON_DEMO.png)
