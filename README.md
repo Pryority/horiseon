@@ -1,5 +1,5 @@
 # Horiseon Social Solution Services
-<p>Welcome to Horiseon! 👋 <br />
+<p>**Welcome to Horiseon!** 👋 <br /><br />
   We specialize in providing search engine optimization (SEO), online reputation management and social media marketing solutions for all.
 </p>
   
